@@ -107,7 +107,7 @@ class ViewController: UIViewController {
     
     func dotsMoreAsOne() -> Bool{
         
-      
+      //test
         
         for char in workings
                 
